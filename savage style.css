@@ -1,0 +1,75 @@
+p{
+	font-size: 18pt;
+.highlighted {
+    background-color: #D7BDE2;
+	padding:10px;
+	display: inline-block;
+}
+
+	color: black;
+		font-family: Garamond;
+}
+head{
+.highlighted {
+    background-color: #D7BDE2;
+	padding:10pt;
+	display: inline-block;
+}
+	font-size: 40px;
+	font-family: Garamond;
+	
+
+}
+
+h1{
+	font-size: 30pt;
+.highlighted {
+    background-color: #EDBB99;
+	padding:10px;
+	display: inline-block;
+}
+	font-family: Garamond;
+	
+}
+
+h2{
+	font-size: 30pt;
+
+.highlighted {
+    background-color: #EDBB99;
+	padding:10px;
+	display: inline-block;
+}
+	font-family: Garamond;
+}
+
+h3{	
+font-size: 30pt;	
+	font-family: Garamond;
+.highlighted {
+    background-color: #EDBB99;
+	padding:10px;
+	display: inline-block;
+}
+	
+}
+title{
+		font-size: 80pt;
+			font-family: Garamond;
+.highlighted {
+    background-color: #D7BDE2;
+	padding:10px;
+	display: inline-block;
+}
+	
+}
+footer{
+	font-size: 10pt;
+		font-family: Garamond;
+	.highlighted {
+    background-color: #D7BDE2;
+	padding:10px;
+	display: inline-block;
+}
+	
+}
